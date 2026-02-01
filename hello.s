@@ -8,7 +8,7 @@ main:
     mov rax, 1
     mov rdi, 1
     mov rsi, rsp
-    mov rdx, 16
+    mov rdx, 11w
     syscall
 
     mov rax, 60
